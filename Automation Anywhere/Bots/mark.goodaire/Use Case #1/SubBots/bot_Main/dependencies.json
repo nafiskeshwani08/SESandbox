@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\mark.goodaire\\Use Case #1\\SubBots\\Main","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\mark.goodaire\\Use Case #1\\SubTask1"]}
+{"path":"Automation Anywhere\\Bots\\mark.goodaire\\Use Case #1\\SubBots\\Main","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\LIBRARY\\Get Taskbot Name","Automation Anywhere\\Bots\\LIBRARY\\LogInfo","Automation Anywhere\\Bots\\LIBRARY\\Send Email","Automation Anywhere\\Bots\\mark.goodaire\\Use Case #1\\SubBots\\SubTask1"]}
