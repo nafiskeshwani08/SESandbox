@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Configuration>
+	<DEV>
+		<FunctionalArea>Finance</FunctionalArea>
+		<SubFunction>Accounts Payable</SubFunction>
+		<Process>Invoice Processing</Process>
+		<EmailConnectionType>EWS</EmailConnectionType>
+	</DEV>
+	<UAT>
+		<FunctionalArea>Finance</FunctionalArea>
+		<SubFunction>Accounts Payable</SubFunction>
+		<Process>Invoice Processing</Process>
+		<EmailConnectionType>Outlook</EmailConnectionType>
+	</UAT>
+	<PRD>
+		<FunctionalArea>Finance</FunctionalArea>
+		<SubFunction>Accounts Payable</SubFunction>
+		<Process>Invoice Processing</Process>
+		<EmailConnectionType>Email Server</EmailConnectionType>
+	</PRD>
+</Configuration>
