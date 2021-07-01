@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\Finance\\Accounting\\InvoiceDataPull\\SubTasks\\ReadDatabase","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\LIBRARY\\Get Taskbot Name","Automation Anywhere\\Bots\\LIBRARY\\LogInfo"]}
