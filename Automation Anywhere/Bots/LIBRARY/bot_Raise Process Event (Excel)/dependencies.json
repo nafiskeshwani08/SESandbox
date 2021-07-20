@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\LIBRARY\\Raise Process Event (Excel)","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\LIBRARY\\Send Email"]}
+{"path":"Automation Anywhere\\Bots\\LIBRARY\\Raise Process Event (Excel)","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\LIBRARY\\Get Taskbot Name","Automation Anywhere\\Bots\\LIBRARY\\LogInfo","Automation Anywhere\\Bots\\LIBRARY\\Send Email"]}

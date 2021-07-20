@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\LIBRARY\\Send Email","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\LIBRARY\\Get Taskbot Name","Automation Anywhere\\Bots\\LIBRARY\\LogInfo"]}
+{"path":"Automation Anywhere\\Bots\\LIBRARY\\Send Email","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\LIBRARY\\Get Taskbot Name"]}
