@@ -1,0 +1,15 @@
+Code,Category,Notify?,TO Recipient,CC Recipient,Subject,Fatal After Retry?,Attempt Retry?,Body (HTML),Body (Plain)
+MAIN_GENERAL,ERROR,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> - MAIN_GENERAL occurred,Y,N,A general error occurred during processing of 'Main',A general error occurred during processing of 'Main'
+SUB_GENERAL,ERROR,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> - SUB_GENERAL occurred,Y,N,A general error occurred during processing of 'Sub-Bot',A general error occurred during processing of 'Sub-Bot'
+APPLICATION_ERROR,ERROR,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> -An error occurred opening the application.,N,N,An error occurred opening the application.,An error occurred opening the application.
+MISSING_INPUT_FILE,EXCEPTION,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> - MISSING_INPUT_FILE occurred,Y,N,Input file (.csv) is missing.,Input file (.csv) is missing.
+MISSING_UPLOAD_TEMPLATE,EXCEPTION,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> - MISSING_UPLOAD_TEMPLATE occurred,N,N,Upload template (.xlsx) is missing,Upload template (.xlsx) is missing
+INPUT_FILE_INVALID,EXCEPTION,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> - INPUT_FILE_INVALID occurred,N,Y,Input file (.csv) is invalid.,Input file (.csv) is invalid.
+APP_LOGIN_FAILURE,EXCEPTION,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> - APP_LOGIN_FAILURE occurred,N,N,APP login failure.,APP login failure.
+APP_TRANSACTION_FAILURE,EXCEPTION,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> - APP_TRANSACTION_FAILURE occurred,Y,N,Failure executing transaction in APP.,Failure executing transaction in APP.
+PROCESS_COMPLETE,GENERAL,N,me@domain.com,me@domain.com,<Process> - Successfully completed,N,N,<B>The process completed successfully!</B>,The process completed successfully!
+INVALID_DATA,EXCEPTION,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> - INVALID_DATA occurred,N,N,Invalid data,Invalid data
+DEBIT_VS_CREDIT,EXCEPTION,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> - DEBIT_VS_CREDIT occurred,N,N,Debits did not equal credits.,Debits did not equal credits.
+EVENT_001,GENERAL,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> - Something interesting occurred during the process.,N,N,Something interesting occurred during the process.,Something interesting occurred during the process.
+EXCEPTION_001,EXCEPTION,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> -An exception occurred during the process.,N,N,An exception occurred during the process.,An exception occurred during the process.
+EXCEPTION_002,EXCEPTION,N,mark.goodaire@automationanywhere.com,someone@gmail.com,<Process> -An exception occurred during the process.,N,N,An exception occurred during the process.,An exception occurred during the process.

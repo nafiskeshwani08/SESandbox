@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Configuration>
+	<DEV>
+		<FunctionalArea>Finance</FunctionalArea>
+		<SubFunction>Accounts Payable</SubFunction>
+		<Process>Invoice Processing</Process>
+		<EmailConnectionType>EWS</EmailConnectionType>
+		<!--Event config file stored on NAS; can be xlsx or csv format -->
+		<FileNameEventConfig>EventConfig.csv</FileNameEventConfig>
+	</DEV>
+	<UAT>
+		<FunctionalArea>Finance</FunctionalArea>
+		<SubFunction>Accounts Payable</SubFunction>
+		<Process>Invoice Processing</Process>
+		<EmailConnectionType>Outlook</EmailConnectionType>
+		<FileNameEventConfig>EventConfig.csv</FileNameEventConfig>
+	</UAT>
+	<PRD>
+		<FunctionalArea>Finance</FunctionalArea>
+		<SubFunction>Accounts Payable</SubFunction>
+		<Process>Invoice Processing</Process>
+		<EmailConnectionType>Email Server</EmailConnectionType>
+		<FileNameEventConfig>EventConfig.csv</FileNameEventConfig>
+	</PRD>
+</Configuration>
