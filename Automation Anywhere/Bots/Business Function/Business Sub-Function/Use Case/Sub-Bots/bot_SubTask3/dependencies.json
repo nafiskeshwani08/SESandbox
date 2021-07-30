@@ -1,0 +1,1 @@
+{"path":"Automation Anywhere\\Bots\\Business Function\\Business Sub-Function\\Use Case\\Sub-Bots\\SubTask3","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\LIBRARY\\Get Taskbot Name","Automation Anywhere\\Bots\\LIBRARY\\LogInfo","Automation Anywhere\\Bots\\LIBRARY\\Raise Process Event (Excel)"]}
