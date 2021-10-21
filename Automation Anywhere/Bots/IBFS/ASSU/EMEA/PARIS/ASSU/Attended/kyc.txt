@@ -1,0 +1,3 @@
+###Configuration appel KYC###
+AS400Window=paris1*
+SupportedScreens=G5VPER01#G5JPER01#G2JSIR01
