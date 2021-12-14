@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\testTrigger","manualDependencies":[],"scannedDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\testTrigger","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\TestMsgBox"]}
