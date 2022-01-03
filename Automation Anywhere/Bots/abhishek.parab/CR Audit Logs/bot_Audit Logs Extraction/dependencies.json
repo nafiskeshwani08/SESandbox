@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\abhishek.parab\\CR Audit Logs\\Audit Logs Extraction","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\Audit Logs.xlsx"]}
+{"path":"Automation Anywhere\\Bots\\abhishek.parab\\CR Audit Logs\\Audit Logs Extraction","manualDependencies":[],"scannedDependencies":["Automation Anywhere\\Bots\\abhishek.parab\\CR Audit Logs\\Write Logs to Excel","Automation Anywhere\\Bots\\abhishek.parab\\CR Audit Logs\\Audit logs - Request User Inputs","Automation Anywhere\\Bots\\abhishek.parab\\CR Audit Logs\\PrepareDateTime"]}
