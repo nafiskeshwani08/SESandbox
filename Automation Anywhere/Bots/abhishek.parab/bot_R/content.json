@@ -19756,16 +19756,16 @@
     "version": "3.0.0-20210505-201256"
   }, {
     "id": "",
-    "name": "Recorder",
-    "version": "2.2.0-20210722-211132"
-  }, {
-    "id": "",
     "name": "Window",
     "version": "3.0.0-20210504-085135"
   }, {
     "id": "",
     "name": "MessageBox",
     "version": "3.4.0-20220416-233919"
+  }, {
+    "id": "",
+    "name": "Recorder",
+    "version": "2.7.3-20220527-004608"
   }],
   "triggers": [],
   "workItemTemplateName": "",

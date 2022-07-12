@@ -14695,10 +14695,6 @@
     "version": "2.0.0-20191231-120639"
   }, {
     "id": "",
-    "name": "Recorder",
-    "version": "2.0.6-20200702-195956"
-  }, {
-    "id": "",
     "name": "Screen",
     "version": "2.0.0-20200624-042134"
   }, {
@@ -14717,6 +14713,10 @@
     "id": "",
     "name": "MessageBox",
     "version": "3.4.0-20220416-233919"
+  }, {
+    "id": "",
+    "name": "Recorder",
+    "version": "2.7.3-20220527-004608"
   }],
   "triggers": [],
   "workItemTemplateName": "",

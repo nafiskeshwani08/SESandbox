@@ -11179,10 +11179,6 @@
     "version": "3.4.0-20220127-062837"
   }, {
     "id": "",
-    "name": "Recorder",
-    "version": "2.5.4-20220309-151830"
-  }, {
-    "id": "",
     "name": "Step",
     "version": "2.1.0-20220201-190609"
   }, {
@@ -11201,6 +11197,10 @@
     "id": "",
     "name": "MessageBox",
     "version": "3.4.0-20220416-233919"
+  }, {
+    "id": "",
+    "name": "Recorder",
+    "version": "2.7.3-20220527-004608"
   }],
   "triggers": [],
   "workItemTemplateName": "",

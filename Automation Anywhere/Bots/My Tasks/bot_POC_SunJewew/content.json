@@ -10513,10 +10513,6 @@
     "version": "2.6.0-20210504-152804"
   }, {
     "id": "",
-    "name": "Recorder",
-    "version": "2.2.0-20210722-211132"
-  }, {
-    "id": "",
     "name": "TaskBot",
     "version": "2.0.1-20210503-140009"
   }, {
@@ -10535,6 +10531,10 @@
     "id": "",
     "name": "MessageBox",
     "version": "3.4.0-20220416-233919"
+  }, {
+    "id": "",
+    "name": "Recorder",
+    "version": "2.7.3-20220527-004608"
   }],
   "triggers": [],
   "workItemTemplateName": "",

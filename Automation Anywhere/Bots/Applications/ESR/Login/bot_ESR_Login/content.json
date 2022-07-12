@@ -21782,14 +21782,6 @@
     "version": "3.2.0-20211011-141826"
   }, {
     "id": "",
-    "name": "Recorder",
-    "version": "2.4.0-20211118-080716"
-  }, {
-    "id": "",
-    "name": "Recorder",
-    "version": "2.4.0-20211118-080716"
-  }, {
-    "id": "",
     "name": "Step",
     "version": "2.1.0-20211016-070304"
   }, {
@@ -21852,6 +21844,14 @@
     "id": "",
     "name": "MessageBox",
     "version": "3.4.0-20220416-233919"
+  }, {
+    "id": "",
+    "name": "Recorder",
+    "version": "2.7.3-20220527-004608"
+  }, {
+    "id": "",
+    "name": "Recorder",
+    "version": "2.7.3-20220527-004608"
   }],
   "triggers": [],
   "workItemTemplateName": "",

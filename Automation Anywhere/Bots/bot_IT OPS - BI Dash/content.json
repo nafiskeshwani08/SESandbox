@@ -5655,10 +5655,6 @@
     "version": "3.0.0-20210504-153002"
   }, {
     "id": "",
-    "name": "Recorder",
-    "version": "2.2.0-20210722-211132"
-  }, {
-    "id": "",
     "name": "SAP",
     "version": "2.4.0-20210504-153434"
   }, {
@@ -5669,6 +5665,10 @@
     "id": "",
     "name": "MessageBox",
     "version": "3.4.0-20220416-233919"
+  }, {
+    "id": "",
+    "name": "Recorder",
+    "version": "2.7.3-20220527-004608"
   }],
   "triggers": [],
   "workItemTemplateName": "",
